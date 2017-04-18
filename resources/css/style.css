@@ -1,0 +1,32 @@
+* {
+	font-family: Helvetica, sans-serif;
+}
+
+h1 {
+	font-size: 100px;
+	color: khaki;
+	text-align: center;
+	background-image: url("../image/dasmoto_arts_crafts_header.jpg");
+}
+
+h2 {
+	font-size: 32px;
+	color: white;
+}
+
+h2.green {
+	background-color: mediumspringgreen;
+}
+
+h2.red {
+	background-color: lightcoral;
+}
+
+h2.blue {
+	background-color: skyblue;
+}
+
+span.price {
+	font-weight: bold;
+	color: blue;
+}
